@@ -5,8 +5,7 @@ using TestStack.White.UIItems.WindowItems;
 namespace addressbook_tests_auto_white
 {
     public class ApplicationManager
-    {
-        private AutoItX3.Interop.AutoItX3 aux;
+    { 
         private GroupHelper _groupHelper;
         public static string WINTITLE = "Free Address Book";
 
