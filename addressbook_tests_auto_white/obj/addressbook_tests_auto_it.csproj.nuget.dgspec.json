@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oimez\\RiderProjects\\addressbook_tests_auto_it\\addressbook_tests_auto_it\\addressbook_tests_auto_it.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oimez\\RiderProjects\\addressbook_tests_auto_it\\addressbook_tests_auto_it\\addressbook_tests_auto_it.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oimez\\RiderProjects\\addressbook_tests_auto_it\\addressbook_tests_auto_it\\addressbook_tests_auto_it.csproj",
+        "projectName": "addressbook_tests_auto_it",
+        "projectPath": "C:\\Users\\oimez\\RiderProjects\\addressbook_tests_auto_it\\addressbook_tests_auto_it\\addressbook_tests_auto_it.csproj",
+        "packagesPath": "C:\\Users\\oimez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oimez\\RiderProjects\\addressbook_tests_auto_it\\addressbook_tests_auto_it\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oimez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "AutoItX": {
+              "target": "Package",
+              "version": "[3.3.12, )"
+            },
+            "AutoItX.Dotnet": {
+              "target": "Package",
+              "version": "[3.3.14.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "TestStack.White": {
+              "target": "Package",
+              "version": "[0.13.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20268.1\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

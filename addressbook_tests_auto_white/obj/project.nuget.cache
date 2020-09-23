@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWVg63nTgvZ8fig3dUfXJZXKYe6lhpk0yln0GMeNz0Sr1snj7BuGUhXlCLixgRqawUsk0ECJVqMwNAgyGyCDfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oimez\\RiderProjects\\addressbook_tests_auto_it\\addressbook_tests_auto_white\\addressbook_tests_auto_white.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oimez\\.nuget\\packages\\autoitx\\3.3.12\\autoitx.3.3.12.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\autoitx.dotnet\\3.3.14.5\\autoitx.dotnet.3.3.14.5.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\castle.core\\3.3.0\\castle.core.3.3.0.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\oimez\\.nuget\\packages\\teststack.white\\0.13.3\\teststack.white.0.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
